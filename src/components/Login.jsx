@@ -49,7 +49,7 @@ const handleToggle = () =>{
 
   return (
     <div className={`${isDark && "dark"} sm:bg-blue-200 sm:w-screen sm:h-screen sm:p-5 sm:flex justify-center items-center`}>
-        <form className="sm:bg-white bg-yellow-50 dark:bg-black px-4  flex flex-col justify-center   w-screen h-screen sm:flex  sm:flex-col 
+        <form className="sm:bg-white bg-yellow-50 dark:bg-black px-4 pt-3 flex flex-col    w-screen h-screen sm:flex  sm:flex-col 
           sm:w-[420px] sm:h-[500px]  sm:p-10 sm:shadow-lg rounded-sm" onSubmit={(e) => e.preventDefault()}>
             <button className="self-end font-bold text-[10px]" onClick={handleToggle}>{isDark ? <IoIosSunny className="text-[35px] text-white"/>:<IoMdMoon className="text-[35px]"/>}</button>
           <h1 className="text-3xl font-bold mb-5 dark:text-white">Smoke Trees</h1>
