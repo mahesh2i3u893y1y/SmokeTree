@@ -1,8 +1,19 @@
-# React + Vite
+# Smoke Trees Assignment 
+# Nxtwave
+As per requirements I made the assignment 
+I have Created the two tables User and Address connected with Foreign Key 
+Comming to UI 
+- It is a responsive form
+- Toggle the Dark and Light mode Feature
+- Tailwind Css
+- On submitting alert box will appear with succesfull submission and Data is stored in tables
+- you can check the URLS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- *** TO check POST url reffer "https://smoketree-backend-gl3b.onrender.com/register/"
+- data should be given in body as json format 
+- *** TO check User Table refer "https://smoketree-backend-gl3b.onrender.com/users/
+- *** TO check Address Table refer to "https://smoketree-backend-gl3b.onrender.com/address/
+- *** TO check relation between two tables refer to "https://smoketree-backend-gl3b.onrender.com//users-address-relation/
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
