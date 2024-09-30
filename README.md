@@ -1,5 +1,17 @@
 # Smoke Trees Assignment 
 # Nxtwave
+Technologies used 
+- ## React  vite@latest
+- ## tailwind css
+- ## sqlite
+- ## Node js
+- ## Express 
+- ## postman to test API's
+
+- ** Deployment ***
+- Frontend -- ## vercel
+- Backend -- ## Render
+- 
 As per requirements I made the assignment 
 I have Created the two tables User and Address connected with Foreign Key 
 Comming to UI 
